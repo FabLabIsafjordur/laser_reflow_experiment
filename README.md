@@ -1,7 +1,9 @@
 # laser_reflow_experiment
+
 experiment to see if we can do reflow using the labs laser
 
-##Steps tested
+## Steps tested
+
 1. step one apply solder stensil using tranfer film comonly avalible in Fab Lab
  > [documented here]() 
 2. apply solder paste with no componaus just to see if we can melt the solder
@@ -12,5 +14,7 @@ experiment to see if we can do reflow using the labs laser
 ## conclusion
 
 Did it work?
+
 short answer: nope
-more to try later
+
+more to try later...
